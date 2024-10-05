@@ -23,3 +23,5 @@ Focus is on huge open maps and potentially an LOD example.
 - Falco         - For Making Good Music
 - Falco Girgis  - Moral Support
 - The Entire Simulant and DCwiki Discord Server Communities
+
+Copyright 2024 Dreameater Games
