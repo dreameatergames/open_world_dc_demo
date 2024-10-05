@@ -1,7 +1,7 @@
 # open_world_dc_demo
 An open world demo for the 2024 Dreamcast Game Jam
 
-## Descritption
+## Description
 Part of the simulant example projects, and a potential tech demo for the Dreamcast/Simulant Engine.
 Focus is on huge open maps and potentially an LOD example.
 ## Compiling the Project (Not Working)
